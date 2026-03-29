@@ -1,0 +1,2 @@
+On 28 March 2026, I believe open source is about share.
+Using tools like git, I will build opensource app and share it freely.
